@@ -4,3 +4,6 @@
 * Things to note:
  *  - you must use an `if` statement to verify code is divisible by 3
  *  - you can use `console.log` to verify the `test` variable when you're finished looping
+
+# Using the switch statement
+2. By using the falling-through behavior of switch statements. If winner is equal to 3, then what will be output to the console?
