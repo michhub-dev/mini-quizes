@@ -23,3 +23,11 @@
 # Using the if statement
 4.
 * write the code to represent checking your balance at the ATM
+
+
+# Using logical operators 
+5. Using logical operators, write a series of complex logical expressions that prints only if the following conditions are true:
+
+* if flavor is set to vanilla or chocolate and
+* if vessel is set to cone or bowl and
+* if toppings is set to sprinkles or peanuts
