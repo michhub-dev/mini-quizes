@@ -46,3 +46,7 @@
 * deleteMessage(index) - removes the message corresponding to the index provided
 * addFriend() - increases the friend count by 1
 * removeFriend() - decreases the friend count by 1
+
+# Using object 
+7.
+* create an object with methods 
