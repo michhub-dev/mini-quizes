@@ -50,3 +50,10 @@
 # Using object 
 7.
 * create an object with methods 
+
+
+# String manupulations 
+8.
+*  manipulate the string to ensure the first name has a capital first letter and the last name is totally capitalized
+*  make a space between the names
+*  Your answer should be a single string saved to the variable called finalName
